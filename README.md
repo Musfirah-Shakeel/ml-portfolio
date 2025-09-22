@@ -34,7 +34,7 @@ This repository will be my **6-month journey** to master ML, showcase projects, 
 ---
 
 ## 🌐 Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile Link Here]  
-- **GitHub:** [Your GitHub Profile Link Here]  
+- **LinkedIn:** [https://www.linkedin.com/in/musfirah-shakeel-612a99306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]  
+- **GitHub:** [https://github.com/Musfirah-Shakeel]  
 
 💡 *Follow this repo to see my progress, projects, and hackathon wins step by step!*  
